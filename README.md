@@ -1,7 +1,9 @@
 
-👤 Author
+👤 Author <br>
 Vaishnav Gophane
+<br>
 Embedded Firmware & IoT Developer
+<br>
 Pune, India
 
 ## 🧰 Tech Stack
