@@ -6,6 +6,8 @@ Embedded Firmware & IoT Developer
 <br>
 Pune, India
 
+---
+
 ## 🧰 Tech Stack
 - **Microcontrollers:** ESP32, ESP8266, STM32, PIC, Arduino.
 - **Protocols:** MQTT, HTTP. 
