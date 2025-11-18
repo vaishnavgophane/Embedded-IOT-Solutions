@@ -2,7 +2,7 @@
 
 **Vaishnav Gophane**  
 *Embedded Firmware & IoT Developer*  
-Focused on C, STM32, PIC Microcontrollers, and Real-Time Systems.  
+Pune, India.
 
 📫 **Connect:** [Gmail](mr.vaishnavgophane@gmail.com) • [GitHub](https://github.com/vaishnavgophane) • [LinkedIn](https://www.linkedin.com/in/vaishnav-gophane-417686284/)
 
